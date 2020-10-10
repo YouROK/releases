@@ -1,7 +1,7 @@
 [{
 		"version": "1.0.53",
 		"versionInt": 53,
-		"link": "http://num.yourok.ru:50100/num/files/NUM_1.0.53-release.apk",
+		"link": "http://releases.yourok.ru/NUM_1.0.53-release.apk",
 		"desc": "- Переезжаем снова на гит, сервак упал и все накрылось\n- Некоторые изменения в интерфейсе и улучшения"
 	},
 	{
