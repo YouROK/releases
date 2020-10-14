@@ -31,7 +31,7 @@ function showModal(base64Element) {
 
 (function ($, document, window) {
     $(document).ready(function () {
-        getContent("/releases/releases.json");
+        getContent("/releases/movies.json");
     })
 })(jQuery, document, window);
 
@@ -39,13 +39,13 @@ $(function () {
     $("#btn_movies").click(function () {
         $("#movies").html("");
         document.title = 'Новые релизы: Фильмы';
-        getContent("/releases/releases.json");
+        getContent("/releases/movies.json");
     });
 
     $("#btn_serials").click(function () {
         $("#movies").html("");
         document.title = 'Новые релизы: Сериалы';
-        getContent("/releases/serials.json");
+        getContent("/releases/tv.json");
     });
 
     $("#btn_cartoons").click(function () {
@@ -67,7 +67,7 @@ function getContent(linkJS) {
 
 
         var cont = $("#movies");
-        data.Items.forEach(element => {
+        data.items.forEach(element => {
             var b64Elem = utf8_to_b64(JSON.stringify(element));
 
             if (element.production_countries != null)
