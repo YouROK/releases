@@ -1,11 +1,11 @@
 #movies {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     justify-items: center;
 }
 
 .thumbnail {
-    width: 270px;
+    width: 200px;
     margin-bottom: 3px;
     line-height: 1.42857143;
     background-color: #282828;
@@ -49,8 +49,8 @@
 }
 
 .thumbnail-mousey .thumbnail>img {
-    width: 270px;
-    height: 405px;
+    width: 200px;
+    height: 300px;
 }
 
 .wrap {

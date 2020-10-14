@@ -14,7 +14,7 @@ function showModal(base64Element) {
         return capitalize(el.name)
     }).join(", ");
 
-    $('#infoNameOrig').text(el.original_title + " • " + genres + " • " + countres);
+    $('#infoNameOrig').text(el.original_title + " • " + genres + " • " + countres + " • " + el.id);
     var img = '<img src="' + el.backdrop_path + '" class="rounded leftimg"> <br>';
     var youtube =
         el.videos.results.map(function (trailer) {
@@ -24,7 +24,7 @@ function showModal(base64Element) {
     $('#infoModal').modal('show');
     var torrHtml = '';
     for (var t in el.torrent) {
-        torrHtml += '<small>' + el.torrent[t].date.substring(0, 10) + ' <a href="' + el.torrent[t].magnet + '">' + el.torrent[t].name + '</a> ' + el.torrent[t].size + ' ⇑' + el.torrent[t].upload + ' ⇓' + el.torrent[t].download + '</small><br>';
+        torrHtml += '<small>' + el.torrent[t].date.substring(0, 10) + ' <b>' + el.torrent[t].name + '</b> <u>' + el.torrent[t].size + '</u> ⇑' + el.torrent[t].upload + ' ⇓' + el.torrent[t].download + '</small><br>';
     }
     $('#infoTorrents').html(torrHtml);
 }
@@ -80,6 +80,10 @@ function getContent(linkJS) {
             var genres = element.genres.map(function (el) {
                 return capitalize(el.name)
             }).join(", ");
+
+            var poster = element.poster_path;
+            if (poster == "")
+                poster = "/empty_poster.png"
 
             cont.append(
                 `<div id="m` + element.id + `" onclick="showModal('` + b64Elem + `')">
