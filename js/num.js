@@ -92,7 +92,7 @@ function getContent(linkJS) {
                     <span>` + element.vote_average.toFixed(2) + " • " + countres + `</span><br>
                     <small>` + genres + `</small>
                 </h3>
-                <img class="img-responsive" alt="` + element.title + `" src="` + element.poster_path + `">
+                <img class="img-responsive" alt="` + element.title + `" src="` + poster + `">
             </div>
         </div>`
             );
