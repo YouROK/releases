@@ -63,7 +63,7 @@ $(function () {
 
 function getContent(linkJS) {
     $.getJSON(linkJS, function (data) {
-        $("#last-update").text("Последние обновление: " + data.date + " " + data.time);
+        $("#last-update").text("Последние обновление: " + data.date + " " + data.time+ " " + data.items.length);
 
 
         var cont = $("#movies");
