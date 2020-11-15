@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.56",
+		"versionInt": 56,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.56/NUM_1.0.56-release.apk",
+		"desc": "- Изменения в интерфейсе\n- Исправлен megapeer\n\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.55",
 		"versionInt": 55,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.55/NUM_1.0.55-release.apk",
