@@ -1,0 +1,14 @@
+[
+	{
+		"version": "1.2.9999",
+		"versionInt": 9999,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.56/NUM_1.0.56-release.apk",
+		"desc": "- Новое апи транслирования торрентов в мозжечок\n- Исправлена ошибка косоглазия, когда картинка смещалась на край зрения\n- Теперь нет боли в правой ноге при подключении к другим людям"
+	},
+	{
+		"version": "1.2.86",
+		"versionInt": 86,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.56/NUM_1.0.56-release.apk",
+		"desc": "- Новая версия\n- Все новое и не рабочие\n- Падает и прыгает"
+	}
+]
