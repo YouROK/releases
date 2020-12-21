@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.57",
+		"versionInt": 57,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.57/NUM_1.0.57-release.apk",
+		"desc": "- Добавлена история в поиск по трекерам\n- Исправления и дополнения\n\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.56",
 		"versionInt": 56,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.56/NUM_1.0.56-release.apk",
