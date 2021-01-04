@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.58",
+		"versionInt": 58,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.58/NUM_1.0.58-release.apk",
+		"desc": "- Поправлен поиск, теперь ищет чуть дольше, но показывает все варианты\n- Поправлен фокус в окне поиска приложения\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.57",
 		"versionInt": 57,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.57/NUM_1.0.57-release.apk",
