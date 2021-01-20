@@ -1,19 +1,19 @@
 {
-  "version": "1.2.78_20",
+  "version": "1.2.79_beta2",
   "links": {
-    "darwin-amd64": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-darwin-amd64",
-    "freebsd-amd64": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-freebsd-amd64",
-    "linux-386": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-386",
-    "linux-amd64": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-amd64",
-    "linux-arm5": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-arm5",
-    "linux-arm6": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-arm6",
-    "linux-arm64": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-arm64",
-    "linux-arm7": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-arm7",
-    "linux-mips": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-mips",
-    "linux-mips64": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-mips64",
-    "linux-mips64le": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-mips64le",
-    "linux-mipsle": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-linux-mipsle",
-    "windows-386.exe": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-windows-386.exe",
-    "windows-amd64.exe": "https://github.com/YouROK/TorrServerBin/releases/download/1.2.78_20/TorrServer-windows-amd64.exe"
+    "darwin-amd64": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-darwin-amd64",
+    "freebsd-amd64": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-freebsd-amd64",
+    "linux-386": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-386",
+    "linux-amd64": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-amd64",
+    "linux-arm5": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-arm5",
+    "linux-arm6": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-arm6",
+    "linux-arm64": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-arm64",
+    "linux-arm7": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-arm7",
+    "linux-mips": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-mips",
+    "linux-mips64": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-mips64",
+    "linux-mips64le": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-mips64le",
+    "linux-mipsle": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-linux-mipsle",
+    "windows-386.exe": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-windows-386.exe",
+    "windows-amd64.exe": "https://github.com/YouROK/TorrServer/releases/download/1.2.79_beta2/TorrServer-windows-amd64.exe"
   }
 }
