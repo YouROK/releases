@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.2.92 beta 7.1",
+		"versionInt": 92,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.92_beta_7.1/TorrServe_1.2.92_beta_7.1-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
 		"version": "1.2.91 beta 7",
 		"versionInt": 91,
 		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.91_beta_7/TorrServe_1.2.91_beta_7-release.apk",
