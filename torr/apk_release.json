@@ -1,9 +1,15 @@
 [
 	{
+		"version": "MatriX.94",
+		"versionInt": 94,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.94/TorrServe_MatriX.94-release.apk",
+		"desc": "- Поправил поиск серверов"
+	},
+	{
 		"version": "MatriX.93",
 		"versionInt": 93,
 		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.93/TorrServe_MatriX.93-release.apk",
-		"desc": "- Наслаждаемся и смотрим"
+		"desc": "- Новая версия"
 	},
 	{
 		"version": "1.2.92 beta 7.1",
