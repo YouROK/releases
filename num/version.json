@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.61",
+		"versionInt": 61,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.61/NUM_1.0.61-release.apk",
+		"desc": "- Добавлены подробные описания фильмов и актёров\n- Изменено оформление страниц описания\n- Улучшена навигация на мобильных устройствах\n- Синхронизация Избранного с лончером\n- Исправлен список жанров для латвийского языка\n- Исправлены запросы к TMDB\n- Исправлены некоторые ошибки\n\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.60",
 		"versionInt": 60,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.60/NUM_1.0.60-release.apk",
