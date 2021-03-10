@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.62",
+		"versionInt": 62,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.62/NUM_1.0.62-release.apk",
+		"desc": "- Исправлен Megapeer\n- Добавлены фильмы вышедшие в 4к\n- Поправлены трейлеры\n- Другие исправления\n\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.61",
 		"versionInt": 61,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.61/NUM_1.0.61-release.apk",
