@@ -1,0 +1,13 @@
+{
+    "expired":"0",
+    "images":[
+        {
+            "url":"/num.png",
+            "wait":2
+        },
+        {
+            "url":"/kt.png",
+            "wait":1
+        }
+    ]
+}

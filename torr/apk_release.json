@@ -1,0 +1,62 @@
+[
+	{
+		"version": "MatriX.96",
+		"versionInt": 96,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.96/TorrServe_MatriX.96-release.apk",
+		"desc": "- Исправлен поиск серверов\n- Исправлено отображение скорости\n- Добавлен украинский язык\n-Исправление багов и добавление новых, изменения в интерфейсе\n- Поправлен канал АТВ\n- Добавлены настройки по умолчанию\n- Добавлено удаление отметок о просмотре\n\nСпасибо @tsynik & @spawn_lmg"
+	},
+	{
+		"version": "MatriX.95",
+		"versionInt": 95,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.95/TorrServe_MatriX.95-release.apk",
+		"desc": "- Изменения в интерфейсе\n- Добавил авторизацию для сервера\n\nСпасибо @tsynik"
+	},
+	{
+		"version": "MatriX.94",
+		"versionInt": 94,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.94/TorrServe_MatriX.94-release.apk",
+		"desc": "- Поправил поиск серверов"
+	},
+	{
+		"version": "MatriX.93",
+		"versionInt": 93,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.93/TorrServe_MatriX.93-release.apk",
+		"desc": "- Новая версия"
+	},
+	{
+		"version": "1.2.92 beta 7.1",
+		"versionInt": 92,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.92_beta_7.1/TorrServe_1.2.92_beta_7.1-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
+		"version": "1.2.91 beta 7",
+		"versionInt": 91,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.91_beta_7/TorrServe_1.2.91_beta_7-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
+		"version": "1.2.90 beta 6",
+		"versionInt": 90,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.90_beta_6/TorrServe_1.2.90_beta_6-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
+		"version": "1.2.89 beta 4",
+		"versionInt": 89,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.89_beta_4/TorrServe_1.2.89_beta_4-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
+		"version": "1.2.88 beta 3",
+		"versionInt": 88,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.88_beta_3/TorrServe_1.2.88_beta_3-release.apk",
+		"desc": "- Beta version\n- Improvement and bug fix"
+	},
+	{
+		"version": "1.2.87 beta 2",
+		"versionInt": 87,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/1.2.87_beta_2/TorrServe_1.2.87_beta_2-release.apk",
+		"desc": "- Beta version"
+	}
+]
