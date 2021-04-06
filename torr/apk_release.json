@@ -1,5 +1,11 @@
 [
 	{
+		"version": "MatriX.98",
+		"versionInt": 98,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.98/TorrServe_MatriX.98-release.apk",
+		"desc": "- Исправлено падение, Спасибо @tsynik"
+	},
+	{
 		"version": "MatriX.97",
 		"versionInt": 97,
 		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.97/TorrServe_MatriX.97-release.apk",
