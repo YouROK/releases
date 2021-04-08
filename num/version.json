@@ -1,5 +1,11 @@
 [
 	{
+		"version": "1.0.64",
+		"versionInt": 64,
+		"link": "https://github.com/YouROK/releases/releases/download/1.0.64/NUM_1.0.64-release.apk",
+		"desc": "- Изменение поведения истории поиска\n- Исправления загрузки данных TMDB\n- Исправление обновления канала Избранного\n- Исправление падения приложения при просмотре подборок\n\nСпасибо @tsynik за помощь"
+	},
+	{
 		"version": "1.0.63",
 		"versionInt": 63,
 		"link": "https://github.com/YouROK/releases/releases/download/1.0.63/NUM_1.0.63-release.apk",
