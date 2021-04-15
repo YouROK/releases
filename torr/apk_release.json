@@ -1,5 +1,11 @@
 [
 	{
+		"version": "MatriX.99",
+		"versionInt": 99,
+		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.99/TorrServe_MatriX.99-release.apk",
+		"desc": "- Изменения в интерфейсе\n- Добавлена служба в спец. чтобы не убивала ос(Не запукскать на АТВ 8 и 9)\n\nСпасибо @tsynik"
+	  },
+	  {
 		"version": "MatriX.98",
 		"versionInt": 98,
 		"link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.98/TorrServe_MatriX.98-release.apk",
