@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.101",
+    "versionInt": 101,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.101/TorrServe_MatriX.101-release.apk",
+    "desc": "- Дополнены опции для управления спец. возможностями\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.100",
     "versionInt": 100,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.100/TorrServe_MatriX.100-release.apk",
