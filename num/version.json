@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.69",
+    "versionInt": 69,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.69/NUM_1.0.69-release.apk",
+    "desc": "- Добавлен 4K в рекомендации и каналы\n- Добавлен поиск по именам коллекций внутри приложения\n- Улучшена страница поиска\n- Исправлен доступ к torlook.info (может блокироваться вашим провайдером)\n- Добавлено ограничение на количество результатов поиска и содержимое каналов АТВ\n- Дополнены опции Jackett\n- Улучшена загрузка описаний видео\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.68",
     "versionInt": 68,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.68/NUM_1.0.68-release.apk",
