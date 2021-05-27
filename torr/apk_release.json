@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.103",
+    "versionInt": 103,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.103/TorrServe_MatriX.103-release.apk",
+    "desc": "- Добавлены настройки кэша на диск"
+  },
+  {
     "version": "MatriX.102",
     "versionInt": 102,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.102/TorrServe_MatriX.102-release.apk",
