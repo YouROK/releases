@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.70",
+    "versionInt": 70,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.70/NUM_1.0.70-release.apk",
+    "desc": "- Добавлены темы интерфейса\n- Исправлены баги\n- Добавлены баги\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.69",
     "versionInt": 69,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.69/NUM_1.0.69-release.apk",
