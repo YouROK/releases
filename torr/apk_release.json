@@ -1,10 +1,5 @@
 [
-  {
-    "version": "MatriX.104.Client",
-    "versionInt": 104,
-    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.104.Client/TorrServe_MatriX.104.Client-release.apk",
-    "desc": "- Изменения в интерфейсе\n- Исправление багов\n\nСпасибо @tsynik"
-  },
+
   {
     "version": "MatriX.103",
     "versionInt": 103,
