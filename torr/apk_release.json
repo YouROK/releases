@@ -1,5 +1,16 @@
 [
-  
+  {
+    "version": "MatriX.105",
+    "versionInt": 105,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk",
+    "desc": "- Возврат на старый SDK\n\n<font color='red'><b>Если обновление не устанавливается, нужно вручную скачать и установить приложение</b></font>\n<a href='https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk'>https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk</a>"
+  },
+  {
+    "version": "MatriX.104",
+    "versionInt": 104,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.104.Client/TorrServe_MatriX.104.Client-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправление багов\n\nСпасибо @tsynik"
+  },
   {
     "version": "MatriX.103",
     "versionInt": 103,
