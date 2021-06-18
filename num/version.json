@@ -3,7 +3,7 @@
     "version": "1.0.73",
     "versionInt": 73,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.73/NUM_1.0.73-release.apk",
-    "desc": "- Изменения в интерфейсе\n- Поправлен баг с Jacket, не правильно отображались пиры/сиды\n- Щепотка багов\n\nСпасибо @tsynik"
+    "desc": "- Изменения в интерфейсе\n- Поправлен баг с Jacket, неправильно отображались пиры/сиды\n- Щепотка багов\n\nСпасибо @tsynik"
   },
   {
     "version": "1.0.72",
