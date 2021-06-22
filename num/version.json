@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.75",
+    "versionInt": 75,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.75/NUM_1.0.75-release.apk",
+    "desc": "- Исправления двух рядов"
+  },
+  {
     "version": "1.0.74",
     "versionInt": 74,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.74/NUM_1.0.74-release.apk",
