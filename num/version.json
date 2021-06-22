@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.74",
+    "versionInt": 74,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.74/NUM_1.0.74-release.apk",
+    "desc": "- Можно выбрать одну или две строки фильмов\n- По долгому удержанию будет выдавать выбор в TorrServe, даже если стоит галка по умолчанию\n- Предыдущие баги оставил"
+  },
+  {
     "version": "1.0.73",
     "versionInt": 73,
     "link": "https://github.com/YouROK/releases/releases/download/1.0.73/NUM_1.0.73-release.apk",

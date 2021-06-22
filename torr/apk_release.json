@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.106",
+    "versionInt": 106,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.106.Client/TorrServe_MatriX.106.Client-release.apk",
+    "desc": "- Мелкие правки для вызова меню выбора"
+  },
+  {
     "version": "MatriX.105",
     "versionInt": 105,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk",
